@@ -24,6 +24,7 @@ npm install eslint-loader --save-dev
 }
 
 For more rules of ESLint REF: http://eslint.org/docs/rules/
+2: Error, 1: Warning, 0: No Error
 
 3) In webpack(2) configuration add under rules(loaders):
 
